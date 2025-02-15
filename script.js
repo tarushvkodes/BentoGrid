@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const texts = [
-        'Welcome to Bento Grid!',
+        'Welcome to BentoGrid!',
         'Easily create your own grid.',
         'Add your own images and text.',
         'Perfect for presentations.'
